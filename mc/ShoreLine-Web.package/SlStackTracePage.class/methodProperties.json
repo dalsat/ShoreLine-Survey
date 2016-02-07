@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"tag" : "TommasoDalSasso 1/7/2016 22:48" },
+	"instance" : {
+		"children" : "TommasoDalSasso 1/15/2016 10:05",
+		"initialize" : "TommasoDalSasso 1/14/2016 13:06",
+		"renderControlsOn:" : "TommasoDalSasso 1/14/2016 12:22",
+		"renderHeaderOn:" : "TommasoDalSasso 1/15/2016 10:21",
+		"renderWidgetsOn:" : "TommasoDalSasso 1/15/2016 17:06" } }

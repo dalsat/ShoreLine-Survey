@@ -1,0 +1,18 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedIndex",
+		"callback",
+		"listId",
+		"hiddenId",
+		"value" ],
+	"name" : "SlSelectionComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

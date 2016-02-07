@@ -1,0 +1,23 @@
+{
+  "name": "shoreline-survey",
+  "homepage": "http://shoreline.inf.usi.ch",
+  "authors": [
+    "Tommaso Dal Sasso"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "moment": "~2.11.0"
+  },
+  "private": true
+}

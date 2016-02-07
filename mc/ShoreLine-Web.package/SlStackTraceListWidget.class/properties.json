@@ -1,0 +1,18 @@
+{
+	"category" : "ShoreLine-Web-StackTraces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pager",
+		"date",
+		"traces",
+		"tableId",
+		"firstRender" ],
+	"name" : "SlStackTraceListWidget",
+	"pools" : [
+		 ],
+	"super" : "SlWidget",
+	"type" : "normal" }

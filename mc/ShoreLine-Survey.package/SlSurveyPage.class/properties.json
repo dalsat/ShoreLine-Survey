@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"task",
+		"title" ],
+	"name" : "SlSurveyPage",
+	"pools" : [
+		 ],
+	"super" : "SlPageWidget",
+	"type" : "normal" }

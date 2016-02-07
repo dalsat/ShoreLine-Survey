@@ -1,0 +1,17 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expertiseSelection",
+		"name",
+		"occupation",
+		"expertise" ],
+	"name" : "SlDetailsSurveyWidget",
+	"pools" : [
+		 ],
+	"super" : "SlSurveyWidget",
+	"type" : "normal" }

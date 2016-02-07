@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Web-StackTraces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stacktrace" ],
+	"name" : "SlClassWidget",
+	"pools" : [
+		 ],
+	"super" : "SlWidget",
+	"type" : "normal" }

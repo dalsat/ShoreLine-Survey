@@ -1,0 +1,26 @@
+
+.blog-entry {
+    background: white;
+    box-shadow: 0px 2px 2px #dddddd;
+
+    padding: 2em 3em 3em 3em;
+    margin-bottom: 2em;
+}
+
+article.blog-entry .title {
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 1em;
+}
+
+article.blog-entry .date {
+    float:right;
+    position: relative;
+    top: -1.5em;
+
+    font-style: italic;
+    color: #555;
+}
+
+article.blog-entry .body {
+    white-space: pre;
+}

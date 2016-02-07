@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"answer" ],
+	"name" : "SlSurveyTask",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

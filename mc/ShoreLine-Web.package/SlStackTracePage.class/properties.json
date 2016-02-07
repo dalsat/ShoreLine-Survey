@@ -1,0 +1,16 @@
+{
+	"category" : "ShoreLine-Web-Pages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filterWidget",
+		"summaryWidget",
+		"stackTracesWidget" ],
+	"name" : "SlStackTracePage",
+	"pools" : [
+		 ],
+	"super" : "SlPageWidget",
+	"type" : "normal" }

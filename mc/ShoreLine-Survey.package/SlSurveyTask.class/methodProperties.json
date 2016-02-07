@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"questionsTemplate" : "TommasoDalSasso 2/7/2016 18:09",
+		"store" : "TommasoDalSasso 2/7/2016 17:35",
+		"storePath" : "TommasoDalSasso 2/7/2016 17:35",
+		"writeQuestionsTemplate" : "TommasoDalSasso 2/7/2016 18:01" },
+	"instance" : {
+		"go" : "TommasoDalSasso 2/7/2016 23:46",
+		"loadFrom:" : "TommasoDalSasso 2/7/2016 18:07",
+		"newAnswer" : "TommasoDalSasso 2/7/2016 03:10",
+		"readAnswersFrom:" : "TommasoDalSasso 2/7/2016 16:52",
+		"readDetailsFrom:" : "TommasoDalSasso 2/7/2016 16:47",
+		"save" : "TommasoDalSasso 2/7/2016 16:53",
+		"showQuestions" : "TommasoDalSasso 2/7/2016 18:03",
+		"showQuestionsFrom:" : "TommasoDalSasso 2/7/2016 23:46",
+		"storedQuestions" : "TommasoDalSasso 2/7/2016 18:03" } }

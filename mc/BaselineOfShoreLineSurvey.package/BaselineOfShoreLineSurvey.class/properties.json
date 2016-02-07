@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfShoreLineSurvey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfShoreLineSurvey",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

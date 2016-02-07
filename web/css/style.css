@@ -1,0 +1,99 @@
+
+body {
+    background: #fdfdfd;
+    padding-top: 40px;
+}
+
+/*
+Color palette
+
+pharo color: #3297D4;
+darker blue: #0D1116 (opacity: 0.7);
+red: #763930 (opacity: 0.7)
+
+light blue: cfe1f2
+
+*/
+
+.wide-row {
+    background: #f5fbff; /*#eef4f9;*/
+}
+
+.element {
+    box-shadow: 0px 2px 2px #dddddd;
+}
+
+.shadow-light {
+    box-shadow: 0px 1px 1px #f0f0f0;
+}
+
+.shadow-medium {
+    box-shadow: 0px 2px 2px #dddddd;
+}
+
+#summary-row {
+    position: relative;
+    z-index: 5;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 2em;
+}
+
+.static {
+    margin-bottom: 5em;
+}
+
+.circle, .load-button {
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px #aaa;
+	width: 100px;
+	height: 100px;
+	/*line-height: 98px;*/
+    line-height: 100px;
+	text-align: center;
+	background: #ffffff;
+	color: #505050;
+	border-radius: 50%;
+	margin-bottom: 25px;
+	border: 2px solid #505050;
+    padding: 0px 10px;
+    /*font-family: "Raleway";*/
+    /*font-family: "Open Sans";*/
+    /*font-family: "Fira Sans"*/
+}
+
+.load-button {
+	position: relative;
+}
+
+/*.load-button:hover {
+    background: #aaa;
+    transition: 1s;
+}*/
+
+/*.loading { background: pink; }*/
+
+.thread-line {
+	width: 2px;
+	height: 100%;
+	background-color: #a0a0a0;
+	position: absolute;
+	left: 50%;
+	right: auto;
+	z-index: -1;
+}
+
+.title-day {
+    font-size: 40px;
+    line-height: 1.2em;
+}
+
+.title-month {
+    font-size: 25px;
+    line-height: 0.6em;
+}
+
+.title-year {
+    font-size: 15px;
+    line-height: 2.5em;
+}

@@ -1,0 +1,4 @@
+accessing
+appName
+
+	^ 'Stack Traces'

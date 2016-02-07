@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Web-Blog",
+	"classinstvars" : [
+		"Instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"store" ],
+	"name" : "SlArticleLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

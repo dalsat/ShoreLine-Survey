@@ -1,0 +1,18 @@
+{
+	"category" : "ShoreLine-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clickBlock",
+		"before",
+		"during",
+		"after",
+		"trigger" ],
+	"name" : "SlCircleButton",
+	"pools" : [
+		 ],
+	"super" : "SlWidget",
+	"type" : "normal" }

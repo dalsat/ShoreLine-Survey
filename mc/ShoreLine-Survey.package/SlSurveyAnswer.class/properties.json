@@ -1,0 +1,20 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"author",
+		"occupation",
+		"expertise",
+		"tag",
+		"answers",
+		"dateStart",
+		"dateEnd" ],
+	"name" : "SlSurveyAnswer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

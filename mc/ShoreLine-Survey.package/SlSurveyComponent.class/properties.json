@@ -1,0 +1,14 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SlSurveyComponent",
+	"pools" : [
+		 ],
+	"super" : "SlComponent",
+	"type" : "normal" }

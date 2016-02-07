@@ -1,0 +1,14 @@
+
+footer#footer {
+    background: #cfe1f2;
+    padding: 3em 0;
+    margin-top: 10px;
+}
+
+footer#footer ul {
+    list-style-type: none;
+}
+
+footer#footer ul li {
+    margin-bottom: 10px;
+}

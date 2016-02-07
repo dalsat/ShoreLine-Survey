@@ -1,0 +1,15 @@
+{
+	"category" : "ShoreLine-Web-Pages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"body" ],
+	"name" : "SlStaticPage",
+	"pools" : [
+		 ],
+	"super" : "SlPageWidget",
+	"type" : "normal" }

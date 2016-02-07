@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"data" : "TommasoDalSasso 2/7/2016 03:16",
+		"initialize" : "TommasoDalSasso 2/8/2016 00:03",
+		"label" : "TommasoDalSasso 2/7/2016 01:11",
+		"renderBodyOn:" : "TommasoDalSasso 2/7/2016 01:10",
+		"renderContentOn:" : "TommasoDalSasso 2/7/2016 23:58",
+		"renderErrorPanelOn:" : "TommasoDalSasso 2/8/2016 00:04",
+		"renderNextButtonWith:on:" : "TommasoDalSasso 2/7/2016 23:52",
+		"submit" : "TommasoDalSasso 2/8/2016 00:05",
+		"validate" : "TommasoDalSasso 2/8/2016 00:05" } }

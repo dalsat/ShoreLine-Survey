@@ -1,0 +1,17 @@
+{
+	"category" : "ShoreLine-Survey",
+	"classinstvars" : [
+		"Instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"debug",
+		"wwwRoot",
+		"resourceBaseUrl" ],
+	"name" : "ShoreLineSurvey",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

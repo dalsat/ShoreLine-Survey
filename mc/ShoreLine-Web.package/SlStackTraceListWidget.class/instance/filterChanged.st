@@ -1,0 +1,4 @@
+filter
+filterChanged
+
+	self newPager
