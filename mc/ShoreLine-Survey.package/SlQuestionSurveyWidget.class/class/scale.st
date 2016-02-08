@@ -1,4 +1,4 @@
 layout
 scale
 
-	^ { 'Very easy'. 'Easy'. 'Neutral'. 'Hard'. 'Very hard' }
+	^ { 'Strongly agree'. 'Agree'. 'Neutral'. 'Disagree'. 'Strongly disagree' }

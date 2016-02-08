@@ -2,7 +2,7 @@ rendering
 renderButton: index on: html
 	| button |
 	
-	button := html div
+	button := html tbsButton bePush
 		class: 'select-item';
 		onClick: (html jQuery script: [ :s | s
 			<< ((html jQuery id: hiddenId) value: index);

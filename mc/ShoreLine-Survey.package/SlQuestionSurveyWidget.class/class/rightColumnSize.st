@@ -1,4 +1,4 @@
 layout
 rightColumnSize
 
-	^ 4
+	^ 5
