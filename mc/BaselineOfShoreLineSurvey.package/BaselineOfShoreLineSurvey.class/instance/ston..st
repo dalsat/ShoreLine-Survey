@@ -3,6 +3,6 @@ ston: spec
 
 	spec project: 'STON' with: [
 		spec
-			className: 'ConfigurationOfSTON';
+			className: 'ConfigurationOfSton';
 			repository: 'http://www.smalltalkhub.com/mc/SvenVanCaekenberghe/STON/main';
 			version: #stable ]

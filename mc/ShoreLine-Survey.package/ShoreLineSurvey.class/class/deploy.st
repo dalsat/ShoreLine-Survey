@@ -10,4 +10,4 @@ deploy
 		removeParent: WADevelopmentConfiguration instance.
 		
 	"register the shoreline components"
-	{ SlWebComponent. SlBlogComponent } do: [ :eachComponent | eachComponent register ]
+	{ SlSurveyComponent } do: [ :eachComponent | eachComponent register ]
