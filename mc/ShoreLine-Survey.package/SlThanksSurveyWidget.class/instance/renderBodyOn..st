@@ -6,9 +6,11 @@ renderBodyOn: html
 		with: [ html heading level: 3; with: 'Thanks!' ].
 		
 	html div
-		class: 'survey-section';
+		class: 'survey-section intro';
 		with: [
 			html
 				paragraph: 'The survey is complete.';
-				paragraph: 'Thanks for your help!';
-				paragraph: [ html space ] ]
+				paragraph: 'We really appreciate your contribution. Thanks for your help!'.
+			html div
+				class: 'survey-section intro';
+				with: [ html html: '<i>The REVEAL team</i>' ] ]
