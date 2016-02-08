@@ -1,0 +1,4 @@
+layout
+rightColumnSize
+
+	^ 4

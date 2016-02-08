@@ -5,10 +5,10 @@ renderExpertiseRowOn: html
 		class: 'survey-section';
 		with: [
 			html tbsColumn
-				smallSize: 6;
-				with: [ html text: 'Enter your years of expertise in programming' ].
+				smallSize: self class leftColumnSize;
+				with: [ html text: 'Enter your expertise in software development' ].
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class rightColumnSize;
 				with: (SlSelectionComponent new
 					value: expertise;
 					callback: [ :value | expertise := value ]);

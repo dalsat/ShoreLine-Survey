@@ -5,8 +5,8 @@ renderQuestion: aDictionary on: html
 		class: 'survey-section';
 		with: [
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class leftColumnSize;
 				with: [ html html: (aDictionary at: #question) ].
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class rightColumnSize;
 				with: [ self renderInputFor: aDictionary on: html ] ]

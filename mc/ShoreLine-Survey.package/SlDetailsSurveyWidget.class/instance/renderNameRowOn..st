@@ -5,10 +5,10 @@ renderNameRowOn: html
 		class: 'survey-section';
 		with: [
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class leftColumnSize;
 				with: [ html span: 'Enter your name:' ].
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class rightColumnSize;
 				with: [ html textInput
 					placeholder: 'John Doe';
 					value: name;

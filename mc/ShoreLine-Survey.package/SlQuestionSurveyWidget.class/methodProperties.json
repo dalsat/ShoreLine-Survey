@@ -1,6 +1,8 @@
 {
 	"class" : {
+		"leftColumnSize" : "TommasoDalSasso 2/8/2016 10:44",
 		"new" : "TommasoDalSasso 2/7/2016 17:38",
+		"rightColumnSize" : "TommasoDalSasso 2/8/2016 10:44",
 		"withQuestions:" : "TommasoDalSasso 2/7/2016 18:04" },
 	"instance" : {
 		"data" : "TommasoDalSasso 2/7/2016 16:46",
@@ -9,6 +11,6 @@
 		"questions:" : "TommasoDalSasso 2/7/2016 17:36",
 		"renderBodyOn:" : "TommasoDalSasso 2/7/2016 19:04",
 		"renderInputFor:on:" : "TommasoDalSasso 2/7/2016 17:20",
-		"renderQuestion:on:" : "TommasoDalSasso 2/7/2016 18:23",
+		"renderQuestion:on:" : "TommasoDalSasso 2/8/2016 10:44",
 		"renderQuestionsOn:" : "TommasoDalSasso 2/7/2016 18:14",
 		"validate" : "TommasoDalSasso 2/8/2016 00:10" } }

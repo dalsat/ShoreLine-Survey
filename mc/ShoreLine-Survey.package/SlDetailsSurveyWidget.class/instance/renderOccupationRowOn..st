@@ -5,10 +5,10 @@ renderOccupationRowOn: html
 		class: 'survey-section';
 		with: [
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class leftColumnSize;
 				with: [ html text: 'What is your occupation?' ].
 			html tbsColumn
-				smallSize: 6;
+				smallSize: self class rightColumnSize;
 				with: [ html textInput
 					placeholder: 'Developer';
 					value: occupation;

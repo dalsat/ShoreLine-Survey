@@ -1,0 +1,4 @@
+layout
+leftColumnSize
+
+	^ 7
