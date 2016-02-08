@@ -9,7 +9,9 @@
 		"port",
 		"debug",
 		"wwwRoot",
-		"resourceBaseUrl" ],
+		"resourceBaseUrl",
+		"serverHost",
+		"serverPath" ],
 	"name" : "ShoreLineSurvey",
 	"pools" : [
 		 ],

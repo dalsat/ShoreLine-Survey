@@ -1,0 +1,3 @@
+accessing
+serverPath
+	^ serverPath

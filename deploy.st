@@ -3,6 +3,8 @@
 FileStream stdout cr; nextPutAll: 'Deploying ShoreLine Web'; cr.
 
 (#ShoreLineSurvey asClassIfAbsent: [ self error: 'Something went wrong installing ShoreLine Web' ])
+    serverHost: '';
+    serverPath: '';
     resourceBaseUrl: '';
     deploy.
 
