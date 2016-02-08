@@ -1,5 +1,7 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
-	value := ''
+	value := ''.
+	startIndex := 1.
+	endIndex := 5.

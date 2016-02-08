@@ -2,8 +2,10 @@ rendering
 renderContentOn: html
 
 	self renderHiddenFieldOn: html.
-	html div
+	html tbsRow
 		id: (listId := html nextId);
 		class: 'select-component';
-		with: [
-			1 to: 5 do: [ :e | self renderButton: e on: html ] ]
+		with: [ startIndex to: endIndex do: [ :e |
+				html tbsColumn
+					smallSize: 2;
+					with: [ self renderButton: e on: html ] ] ]

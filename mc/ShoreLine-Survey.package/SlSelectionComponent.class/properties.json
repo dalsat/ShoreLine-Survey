@@ -6,6 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"startIndex",
+		"endIndex",
 		"selectedIndex",
 		"callback",
 		"listId",

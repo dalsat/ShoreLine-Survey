@@ -1,4 +1,10 @@
 
+.separator {
+    width: 100%;
+    border-top: 1px solid #dddddd;
+    margin-bottom: 2em;
+}
+
 .survey {}
 
 .survey .survey-contents {
@@ -37,7 +43,8 @@
 }
 
 .survey .survey-section {
-    margin-bottom: 5em;
+    margin-bottom: 4em;
+    padding-bottom: 1em;
 }
 
 .load-button {
@@ -50,6 +57,10 @@
     background: #f5fbff;
 }
 
+.select-header {
+	color: #505050;
+    font-weight: bold;
+}
 
 .select-item {
     background-color: #ffffff;
@@ -70,7 +81,7 @@
     /*font-family: "Raleway";*/
     /*font-family: "Open Sans";*/
     /*font-family: "Fira Sans"*/
-    float: left;
+    /*float: left;*/
 }
 
 .select-item:hover {
