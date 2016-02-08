@@ -3,4 +3,8 @@
 
 FileStream stdout cr; nextPutAll: 'Launching Hello-Pharo'; cr.
 
-"ShoreLineWeb startOn: 8080"
+ShoreLineSurvey
+  reset;
+  port: 51360;
+  debug: false;
+  start.
