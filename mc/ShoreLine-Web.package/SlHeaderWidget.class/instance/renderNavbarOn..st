@@ -5,7 +5,7 @@ renderNavbarOn: html
 		id: #navbar;
 		with: [ html tbsContainer: [ html tbsNavbarHeader: [
 			html tbsNavbarBrand
-				url: '/shoreline';
+				url: '/survey';
 				with: [ self renderLogoOn: html ] ].
 
 			html tbsDivider.
