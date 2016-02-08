@@ -31,6 +31,7 @@ div.intro {
     margin-bottom: 4em;
     padding-bottom: 2em;
     /*font-size: 12pt;*/
+    font-size: 12pt;
 }
 
 .survey .survey-section .date {
@@ -49,6 +50,8 @@ div.intro {
 .survey .survey-section {
     margin-bottom: 4em;
     padding-bottom: 1em;
+    font-size: 12pt;
+
 }
 
 .load-button {
