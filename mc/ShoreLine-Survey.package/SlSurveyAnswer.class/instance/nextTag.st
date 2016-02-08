@@ -5,7 +5,7 @@ nextTag
 	counter := 1.
 	
 	[ | newTag |
-		newTag := author, '-', counter asString.
+		newTag := '' join: (author, '-', counter asString) substrings.
 		(self class referenceForTag: newTag) exists
 			ifFalse: [ ^ newTag ].
 		counter := counter + 1 ] repeat

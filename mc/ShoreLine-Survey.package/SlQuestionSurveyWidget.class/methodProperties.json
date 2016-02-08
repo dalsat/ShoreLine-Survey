@@ -6,13 +6,14 @@
 		"scale" : "TommasoDalSasso 2/8/2016 15:09",
 		"withQuestions:" : "TommasoDalSasso 2/7/2016 18:04" },
 	"instance" : {
+		"answerAt:" : "TommasoDalSasso 2/8/2016 17:10",
 		"data" : "TommasoDalSasso 2/7/2016 16:46",
 		"initialize" : "TommasoDalSasso 2/7/2016 04:05",
 		"questions" : "TommasoDalSasso 2/7/2016 17:36",
 		"questions:" : "TommasoDalSasso 2/7/2016 17:36",
 		"renderBodyOn:" : "TommasoDalSasso 2/7/2016 19:04",
 		"renderHeaderOn:" : "TommasoDalSasso 2/8/2016 13:13",
-		"renderInputFor:on:" : "TommasoDalSasso 2/8/2016 11:58",
+		"renderInputFor:on:" : "TommasoDalSasso 2/8/2016 17:11",
 		"renderQuestion:on:" : "TommasoDalSasso 2/8/2016 10:44",
 		"renderQuestionsOn:" : "TommasoDalSasso 2/8/2016 12:04",
 		"validate" : "TommasoDalSasso 2/8/2016 00:10" } }
