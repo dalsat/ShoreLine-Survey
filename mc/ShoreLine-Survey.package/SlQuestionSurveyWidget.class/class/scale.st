@@ -1,4 +1,4 @@
 layout
 scale
 
-	^ { 'Strongly agree'. 'Agree'. 'Neutral'. 'Disagree'. 'Strongly disagree' }
+	^ { 'Strongly disagree'. 'Disgree'. 'Neutral'. 'Agree'. 'Strongly agree' }
